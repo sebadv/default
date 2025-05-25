@@ -1,0 +1,5 @@
+   domain: ha_parking_gent
+   name: Parking Occupancy Ghent
+   documentations:
+     - name: GitHub
+       url: https://github.com/sebadv/ha-parking-gent
